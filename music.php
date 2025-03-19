@@ -75,7 +75,7 @@
             ?> 
     </div>
     <footer>
-        <p class="centre">&copy; 2025 LearnCoach.</p>
+        <p class="centre">&copy; 2025 Amman</p>
     </footer>
 </body>
 </html>
