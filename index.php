@@ -63,7 +63,7 @@
         </ul>
     </div>
     <footer>
-        <p class="centre">&copy; 2025 Amman.</p>
+        <p class="centre">&copy; 2025 Amman</p>
     </footer>
 </body>
 </html>
