@@ -34,7 +34,7 @@
             <input type="submit" value="Sort" class="button">
         </form>
 
-        <h1>Food Group List</h1>
+        <h1>Food Group</h1>
 
             <!-- php to display songs -->
             <?php
