@@ -20,6 +20,7 @@
             <p><a href="index.php">Home</a></p>
             <p><a href="music.php">Music</a></p>
             <p><a href="addMusic.php">Add Music</a></p>
+            <p><a href="foodgroup.php">Food Group</a></p>
         </div>
     </nav>
     <div class="main" role="main">

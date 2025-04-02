@@ -78,7 +78,7 @@
         </form>
     </div>
     <footer>
-        <p class="centre">&copy; 2025 Amman Test.</p>
+        <p class="centre">&copy; 2025 Amman Test </p>
     </footer>
 </body>
 </html>
